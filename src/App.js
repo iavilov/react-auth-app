@@ -9,7 +9,6 @@ import { Link, useHistory, NavLink } from "react-router-dom";
 import { makeStyles } from "@mui/styles"
 import Routes from "./routes/Routes";
 import useAuth from "./hooks/useAuth";
-import './style/main.scss';
 
 
 const useStyles = makeStyles(() => ({
